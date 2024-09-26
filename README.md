@@ -1,0 +1,1 @@
+# manage_temp_tables.sql
